@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="SheildMarker" size="0.100000 0.100000" />
+    <ImageTarget name="Maze" size="0.100000 0.100279" />
+    <ImageTarget name="Road" size="0.100000 0.100000" />
+    <ImageTarget name="Triangles" size="0.100000 0.100000" />
+    <ImageTarget name="Woodchips" size="0.100000 0.100000" />
+  </Tracking>
+</QCARConfig>
