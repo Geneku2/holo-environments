@@ -1,0 +1,12 @@
+Voice Commands:
+Create a new profile under MixedReality Toolkit and under "Input"
+Do whatever voice commands you want
+Take a Speech Input Handler Script and place on object of interest
+Global doesn't require gaze selection, local does
+
+also, make sure the speech detector isn't bound to itself or it'll kamikaze into oblivion
+
+Surrounding To Mesh:
+Edit the Spatial Perception things under MixedReality Toolkit so it works
+
+Hand Tracker:
